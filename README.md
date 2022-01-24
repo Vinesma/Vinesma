@@ -1,5 +1,7 @@
 ### I just want to code 💻
 
+[![more github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinesma&layout=compact&theme=github_dark)](https://github.com/Vinesma)
+
 <!--
 **Vinesma/Vinesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
